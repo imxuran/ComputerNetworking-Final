@@ -74,7 +74,7 @@
 - RPC
   -  task结构体里已定义所需信息，所以只需要将task结构体作为通信的参数和返回值即可
 
-### 运行截图 ###
+### 运行截图（部分） ###
 
 <img width="682" alt="image" src="https://user-images.githubusercontent.com/104363753/174912268-2d972f8e-9c11-47a6-a4fd-1ac7081c7671.png">
 
